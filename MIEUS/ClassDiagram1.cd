@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MIEUS.BackEmployee">
+    <Position X="0.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAABAQAAAAAAgAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIEUS.Course">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAgAAgAAIABAAAAAAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIEUS.Instructor">
+    <Position X="4.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAgAAAABAAAAAAAAAAAAAAAABAAQAA=</HashCode>
+      <FileName>Instructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIEUS.MIEUS">
+    <Position X="11.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAAAIAAACAACAAAAAAAAIAAAAAAAgAAABAAgAA=</HashCode>
+      <FileName>MIEUS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIEUS.Person">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAEBAEAAAIEAAAAAAAAAgAAAgA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIEUS.Student">
+    <Position X="7" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAgAAgAAAABAAAAAQAAIAAAAAAABAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIEUS.SystemAdmin">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABBAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SystemAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIEUS.test_MIEUS">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAARACAAAAAAAAAAIAQBAAAAEA=</HashCode>
+      <FileName>test_MIEUS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
